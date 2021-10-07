@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+nav{
+    height: 5rem;
+
+}
+.navbar-brand{
+    font-family: 'Prompt', sans-serif;
+    font-size: 20pt;
+}
+.bg{
+    width: 100% ; 
+    margin-top: 10%;  
+}
+
+section{
+    margin-top: 17%;
+}
+.form_logim{
+    width: 50%;
+}
+

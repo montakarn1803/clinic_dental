@@ -1,0 +1,18 @@
+.imgshow {
+    display: block;
+    max-width:300px;
+    max-height:95px;
+    width: auto;
+    height: auto;
+}
+
+table {
+    text-align: center;
+}
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+nav{
+    height: 5rem;
+}
+.navbar-brand{
+    font-family: 'Prompt', sans-serif;
+    font-size: 20pt;
+}
+
+a{
+    font-family: 'Prompt', sans-serif;
+    font-size: 15pt;
+    margin-right: 1em;
+}
